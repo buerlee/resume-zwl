@@ -97,7 +97,7 @@ github：  github.com/Si3ver
 
 * 学术论文
 
-Weilin Zhou, Yuan Yang,and Mingwei Xu,Accommodating dynamic traffic immediately: a VNF placement approach
+Weilin Zhou, Yuan Yang,and Mingwei Xu, Hao Chen, Accommodating dynamic traffic immediately: a VNF placement approach(已完成，已投递ICC 2019，评审中)
 周伟林, 杨芫, 徐明伟. 网络功能虚拟化技术研究综述[J]. 计算机研究与发展, 2018, 55(4): 675-688
 
 * 竞赛获奖
@@ -111,10 +111,10 @@ Weilin Zhou, Yuan Yang,and Mingwei Xu,Accommodating dynamic traffic immediately:
 
 ## IT技能
 
-熟悉原生JavaScript、ES6，有H5移动端小游戏开发经验
-熟悉前后端分离、前端工程化，熟悉前端工程化开发，能书写和修改Webpack配置
-熟悉常用工具/库，包括Canvas、ECharts、Bootstrap、AntD、jQuery、React
-熟悉密码学、网络安全，理解HTTPS，有思科ASA防火墙配置经验和网络安全协议开发经验
+熟悉原生JavaScript、ES6，有PC端和移动端浏览器H5小游戏开发经验
+熟悉前后端分离、前端工程化，编写和修改过Webpack配置
+熟悉常用工具/库，包括ECharts、Bootstrap、jQuery，了解React、Canvas、AntD
+熟悉密码学、网络安全，HTTPS，有防火墙配置和网络安全协议开发相关经验
 熟悉python可视化库Matplotlib、排版工具Markdown、LaTex
 通过CET-6，无障碍阅读英文文档，熟练使用Google、Stack Overflow检索
 
