@@ -20,18 +20,17 @@ github | https://github.com/Si3ver
 
 ### **前端开发相关**
 
-+ 熟悉HTML, CSS, JavaScript
-+ 熟悉常用工具/库的使用，包括ECharts、Bootstrap、jQuery，Canvas、AntD等，有使用canvas开发移动端小游戏的经验
-+ 熟悉Vue.js，了解React.js，有移动端Webapp、PC端后台管理的开发经验
-+ 熟悉前后端分离、前端工程化的开发方式，有前端性能优化经历
++ 熟悉HTML、CSS、JavaScript，会使用ECharts、Bootstrap、jQuery，Canvas、AntD等
++ 熟悉Vue.js，了解React.js
++ 熟悉前后端分离、前端工程化的开发方式，了解前端性能优化
 
-### **其他方面技能**
+### **其他技能**
 
 + 熟悉python语言，了解数据可视化，会使用Matplotlib、Markdown、LaTex
 + 网络基础良好，熟悉HTTP(S)、TCP/IP，了解运营商技术，有网络运维相关经验(CCNA级别)
 + 无障碍阅读英文文档(CET-6)，熟练使用Google、Stack Overflow检索
 
-### **日常爱好**
+### **爱好特长**
 
 + 爱好阅读看电影，偏爱看历史，也阅读了部分文学名著，对经济学、心理学也有部分了解
 + 喜欢户外运动，曾徒步登泰山、恒山，慕田峪、箭扣、墙子路。与小伙伴日骑160公里从京城到京郊游玩
@@ -139,7 +138,7 @@ github | https://github.com/Si3ver
 
 组织校园读书文化节活动。
 
-1. 制作移动端web pages，用以收集同学书籍喜好和闲置书籍，组织书籍交换活动；
+1. 制作移动端web pages宣传页，用以收集同学书籍喜好和闲置书籍，组织书籍交换活动；
 2. 组织趣味问答环节，答对问题数量越多，奖品越丰厚；
 3. 组织队员制作路展物件，用印制板制作书形道具；
 4. 路展过程中，收集同学们的书籍推荐词，用书签的方式贴到道具上；
